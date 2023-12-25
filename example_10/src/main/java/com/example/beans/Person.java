@@ -9,6 +9,8 @@ public class Person {
     private String name;
     private Vehicle vehicle;
     private String demo;
+    private String demo2;
+
 
     public String getDemo() {
         return demo;
