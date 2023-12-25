@@ -9,6 +9,16 @@ public class Person {
     private String name;
     private Vehicle vehicle;
     private String demo;
+    private String demo2;
+
+
+    public String getDemo() {
+        return demo;
+    }
+
+    public void setDemo(String demo) {
+        this.demo = demo;
+    }
 
     public String getName() {
         return name;
