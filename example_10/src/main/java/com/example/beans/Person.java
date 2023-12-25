@@ -10,6 +10,14 @@ public class Person {
     private Vehicle vehicle;
     private String demo;
 
+    public String getDemo() {
+        return demo;
+    }
+
+    public void setDemo(String demo) {
+        this.demo = demo;
+    }
+
     public String getName() {
         return name;
     }
