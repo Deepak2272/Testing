@@ -8,6 +8,7 @@ public class Person {
 
     private String name;
     private Vehicle vehicle;
+    private String demo;
 
     public String getName() {
         return name;
