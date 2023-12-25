@@ -9,7 +9,7 @@ public class Person {
     private String name;
     private Vehicle vehicle;
     private String demo;
-
+    private String deepak;
     public String getName() {
         return name;
     }
